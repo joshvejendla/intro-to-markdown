@@ -9,5 +9,5 @@ var sum = first + second;
 ```
 
 - [x] Brush teeth
-- [] Take shower
+- [ ] Take shower
 - [x] Put on fresh clothes
