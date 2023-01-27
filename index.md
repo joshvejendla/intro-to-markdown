@@ -7,3 +7,7 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+- [x] Brush teeth
+- [] Take shower
+- [x] Put on fresh clothes
